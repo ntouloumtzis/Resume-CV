@@ -1,7 +1,7 @@
 ## Touloumtzis Nikitas Resume
 
 ## Contact me
-- [My email](p15toul@ionio.gr)
+- [My email](ntouloumtzhs@gmail.com)
 - [My github account](https://github.com/ntouloumtzis)
 
 ## CAREER PROFILE
