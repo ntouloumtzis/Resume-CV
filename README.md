@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## Touloumtzis Nikitas Resume
 
-You can use the [editor on GitHub](https://github.com/ntouloumtzis/resume-cv/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Contact me
+- [My email](p15toul@ionio.gr)
+- [My github account](https://github.com/ntouloumtzis)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## CAREER PROFILE
+Lorem Ipsum 
+Download pdf resume file [here]() (for the second delevarable)
 
-### Markdown
+## KNOWLEDGE
+- HTML/CSS
+- Javascript
+- Figma
+- Sass
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## EDUCATION
+- Ionian University, Corfu • 2015 - present Department of Computer Science & Informatics 
 
-```markdown
-Syntax highlighted code block
+- 2nd General Lyceum, Serres • 2013 - 2015
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## CERTIFICATIONS
+- Grow Greek Tourism Online • Nov 2019
+  Digital Marketing 
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ntouloumtzis/resume-cv/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Foreign Language (English) • Nov 2011 
+  EDEXCEL/PTE LEVEL 3 (B2)
